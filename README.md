@@ -27,3 +27,18 @@
 <a>Model là nơi lưu trữ dữ liệu và logic. Ví dụ, khi Controller truy xuất thông tin khách hàng từ cơ sở dữ liệu, dữ liệu được chuyển đổi giữa các thành phần controller hoặc giữa các yếu tố logic nghiệp vụ. Nó thao tác dữ liệu và gửi lại cơ sở dữ liệu, hoặc được sử dụng để hiển thị thông tin tương tự.</a>
 
 <a>Ngoài ra, nó phản hồi các yêu cầu từ view và có các chỉ thị từ controller cho phép nó tự cập nhật. Nó cũng là mức thấp nhất của mô hình chịu trách nhiệm duy trì dữ liệu.</a>
+git clone repo
+↓
+checkout + tạo branch mới
+↓
+sửa code
+↓
+commit
+↓
+push branch
+↓
+tạo pull request
+↓
+review + approve
+↓
+merge PR vào main
